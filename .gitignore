@@ -1,3 +1,5 @@
 venv
 found.txt
 launch.json
+__pycache__
+.pytest_cache
